@@ -71,11 +71,11 @@ For more Best Practice Resources and Guidance, check [our list](https://officena
 For more Best Practice Resources and Guidance, check [our list](https://officenationalstatistics.sharepoint.com/:w:/s/BPI/EX36GyNYCCtGmwcLgeIK-oABm8XHRFbHzFsaV00XNG4Q1g?e=shTavl)
 
 <br> Methodology contacts
-[Research Hub](mailto:Charlie.Wroth-Smith@ons.gov.uk)
-[Social Statistics](mailto:Leone.Wardman@ons.gov.uk)
-[Economic Statistics Methods Hub](mailto:Danni.Lewis@ons.gov.uk): methodology support for economic statistics and business surveys
-[Census and Population Statistics](mailto:Katie.O'Farrell@ons.gov.uk)
-[Statistical Infrastructure and Design](mailto:Fern.Leather@ons.gov.uk)
-[Health Methods and Analysis](mailto:Gareth.James@ons.gov.uk)
-[Assurance Board](https://officenationalstatistics.sharepoint.com/:w:/s/MTHExGr/EdxynpX_SD9JoHzU1JrnZYQBadm_uNK3g2RRa8i0-5Bkpg?e=Kiey3g)
+<br> [Research Hub](mailto:Charlie.Wroth-Smith@ons.gov.uk)
+<br> [Social Statistics](mailto:Leone.Wardman@ons.gov.uk)
+<br> [Economic Statistics Methods Hub](mailto:Danni.Lewis@ons.gov.uk): methodology support for economic statistics and business surveys
+<br> [Census and Population Statistics](mailto:Katie.O'Farrell@ons.gov.uk)
+<br> [Statistical Infrastructure and Design](mailto:Fern.Leather@ons.gov.uk)
+<br> [Health Methods and Analysis](mailto:Gareth.James@ons.gov.uk)
+<br> <br> [Assurance Boards](https://officenationalstatistics.sharepoint.com/:w:/s/MTHExGr/EdxynpX_SD9JoHzU1JrnZYQBadm_uNK3g2RRa8i0-5Bkpg?e=Kiey3g)
 
