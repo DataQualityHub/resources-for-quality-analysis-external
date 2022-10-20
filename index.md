@@ -72,11 +72,13 @@ For more Best Practice Resources and Guidance, check [our list](https://officena
 For more Best Practice Resources and Guidance, check [our list](https://officenationalstatistics.sharepoint.com/:w:/s/BPI/EX36GyNYCCtGmwcLgeIK-oABm8XHRFbHzFsaV00XNG4Q1g?e=shTavl)
 
 ### Methodology contacts
-<br> Research Hub: methodological research and development, specialises in developing administrative data methods for use in official statistics.
-<br> Social Statistics
-<br> Economic Statistics Methods Hub: methodology support for economic statistics and business surveys
-<br> Census and Population Statistics: methodology support for the transformation of population and migration statistics
+To contact methodology, drop an email with your request to [DQHub@ons.gov.uk](mailto:DQHub@ons.gov.uk) and the DQHub team will forward the request to the appropriate methodology team. If you know which hub the request should be addressed to, please specify that in your email as well.
+
+<br> Research: methodological research and development, specialises in developing administrative data methods for use in official statistics.
+<br> Social Statistics: methodology support for social statistics.
+<br> Economic Statistics Methods: methodology support for economic statistics and business surveys.
+<br> Census and Population Statistics: methodology support for the transformation of population and migration statistics.
 <br> Statistical Infrastructure and Design
-<br> Health Methods and Analysis): methodology support for health-related analysis and surveys, as well as support for analysis.
-<br> <br> [Assurance Boards](https://officenationalstatistics.sharepoint.com/:w:/s/MTHExGr/EdxynpX_SD9JoHzU1JrnZYQBadm_uNK3g2RRa8i0-5Bkpg?e=Kiey3g)
+<br> Health Methods and Analysis: methodology support for health-related analysis and surveys, as well as support for analysis.
+
 
