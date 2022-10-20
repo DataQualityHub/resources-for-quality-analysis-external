@@ -72,7 +72,7 @@ For more Best Practice Resources and Guidance, check [our list](https://officena
 For more Best Practice Resources and Guidance, check [our list](https://officenationalstatistics.sharepoint.com/:w:/s/BPI/EX36GyNYCCtGmwcLgeIK-oABm8XHRFbHzFsaV00XNG4Q1g?e=shTavl)
 
 ### Methodology contacts
-<br> [Research Hub](mailto:Charlie.Wroth-Smith@ons.gov.uk)
+<br> [Research Hub](mailto:Charlie.Wroth-Smith@ons.gov.uk): methodological research and development, specialises in developing administrative data methods for use in official statistics.
 <br> [Social Statistics](mailto:Leone.Wardman@ons.gov.uk)
 <br> [Economic Statistics Methods Hub](mailto:Danni.Lewis@ons.gov.uk): methodology support for economic statistics and business surveys
 <br> [Census and Population Statistics](mailto:Katie.O'Farrell@ons.gov.uk): methodology support for the transformation of population and migration statistics
