@@ -77,6 +77,6 @@ For more Best Practice Resources and Guidance, check [our list](https://officena
 <br> [Economic Statistics Methods Hub](mailto:Danni.Lewis@ons.gov.uk): methodology support for economic statistics and business surveys
 <br> [Census and Population Statistics](mailto:Katie.O'Farrell@ons.gov.uk): methodology support for the transformation of population and migration statistics
 <br> [Statistical Infrastructure and Design](mailto:Fern.Leather@ons.gov.uk)
-<br> [Health Methods and Analysis](mailto:Gareth.James@ons.gov.uk)
+<br> [Health Methods and Analysis](mailto:Gareth.James@ons.gov.uk): methodology support for health-related analysis and surveys, as well as support for analysis.
 <br> <br> [Assurance Boards](https://officenationalstatistics.sharepoint.com/:w:/s/MTHExGr/EdxynpX_SD9JoHzU1JrnZYQBadm_uNK3g2RRa8i0-5Bkpg?e=Kiey3g)
 
