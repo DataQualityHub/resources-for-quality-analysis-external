@@ -78,7 +78,7 @@ To contact methodology, drop an email with your request to [DQHub@ons.gov.uk](ma
 <br> Social Statistics: methodology support for social statistics.
 <br> Economic Statistics Methods: methodology support for economic statistics and business surveys.
 <br> Census and Population Statistics: methodology support for the transformation of population and migration statistics.
-<br> Statistical Infrastructure and Design
+<br> Statistical Infrastructure and Design: methodology support for the Integrated Data Service and for statistical infrastructure in ONS.
 <br> Health Methods and Analysis: methodology support for health-related analysis and surveys, as well as support for analysis.
 
 
