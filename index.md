@@ -1,7 +1,5 @@
 # Quality Questions and Red Flags
 
-## Testing merge 
-
 This document is published and maintained by the Data Quality Hub and the Analysis Standards and Pipelines Hub, based at ONS. 
 
 The information below aims to provide support and guidance to colleagues working on statistical outputs and analysis across government. 
