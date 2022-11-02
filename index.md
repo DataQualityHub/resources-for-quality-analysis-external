@@ -73,7 +73,7 @@ If you have any questions or require any further support, please drop an email w
 
 
 **ONS Contacts**
-<br>Data Quality and Quality Champions: Data Quality Hub
+<br> Data Quality and Quality Champions: Data Quality Hub
 <br> Best practice guidance, scripts, code, documentation, peer review: Analysis Standards and Pipelines Hub
 <br> Addressing and preventing issues: Statistics Head of Profession Office
 
