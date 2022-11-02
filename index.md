@@ -74,8 +74,8 @@ If you have any questions or require any further support, please drop an email w
 
 #### ONS Contacts
 <br> Data Quality and Quality Champions: Data Quality Hub
-<br> Best practice guidance: Analysis Standards and Pipelines Hub, and Methodology
-<br> Transforming and automating manual processes using code: Analysis Standards and Pipelines Hub
+<br> Best practice guidance, scripts, code, documentation, peer review: Analysis Standards and Pipelines Hub
+<br> Addressing and preventing issues: Statistics Head of Profession Office
 
 #### ONS Methodology Contacts
 <br> Research: methodological research and development, specialises in developing administrative data methods for use in official statistics.
