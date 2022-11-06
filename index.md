@@ -70,7 +70,7 @@ Contact: DQHub@ons.gov.uk
 
 
 ### Contact Details
-If you have any questions or require any further support about any of the questions or the red flags, please drop an email with your request to [Analysis.Function@ons.gov.uk](mailto:Analysis.Function@ons.gov.uk) and the Analysis Function team will forward the request to the appropriate team. If you know which team the request should be addressed to, please specify that in your email as well.
+If you have any questions or require any further support about any of the questions or the red flags, please drop an email with your request to [Analysis.Function@ons.gov.uk](mailto:Analysis.Function@ons.gov.uk) or [gsshelp@Statistics.gov.uk](mailto:gsshelp@Statistics.gov.uk) and the team will forward the request to the appropriate team. If you know which team the request should be addressed to, please specify that in your email as well.
 
 
 
