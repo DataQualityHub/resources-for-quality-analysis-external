@@ -4,9 +4,9 @@ This document is published and maintained by the Data Quality Hub and the Analys
 
 The information below aims to provide support and guidance to colleagues working on statistical outputs and analysis across government. 
 
-The [Quality Questions](#quality-questions) table include a set of questions that the analyst can use to interrogate their work with their team and will support them in assuring the quality of their work. The document explains why the question is important, and what help, guidance, and support is available. You can also look for specific information, we suggest you read down the first column and when you find a question that is relevant to you, you can read across that row of the table for more information. 
+The [Quality Questions](#quality-questions) table includes a set of questions that the analyst can use to interrogate their work with their team and will support them in assuring the quality of their work. The document explains why the question is important, and what help, guidance, and support is available. You can also look for specific information, we suggest you read down the first column and when you find a question that is relevant to you, you can read across that row of the table for more information. 
 
-The [Quality Red Flags](#quality-red-flags) table include a set of statements that can help the analyst and their team to identify potential risks to quality that might benefit from further investigation. These statements are not meant to be considered as a value judgment, but more as a suggestion that best practice and support could be beneficial. 
+The [Quality Red Flags](#quality-red-flags) table includes a set of statements that can help the analyst and their team to identify potential risks to quality that might benefit from further investigation. These statements are not meant to be considered as a value judgment, but more as a suggestion that best practice and support could be beneficial. 
 
 We will be developing this page and welcome your feedback on the content and the structure.
 
