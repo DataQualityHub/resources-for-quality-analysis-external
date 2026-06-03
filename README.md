@@ -8,3 +8,10 @@ The Quality Questions table includes a set of questions that the analyst can use
 
 The Quality Red Flags table includes a set of statements that can help the analyst and their team to identify potential risks to quality that might benefit from further investigation. These statements are not meant to be considered as a value judgment, but a suggestion that best practice and support could be beneficial.
 
+# Contributing and Building
+
+This documentation can be updated by making changes to the `index.md` file, either on a branch or by forking the repository. 
+Once these commits have been reviewed and merged via a pull request, the documentation is deployed automatically using [a Jekyll workflow](.github/workflows/jekyll-gh-pages.yml). 
+This builds the `index.md` file into a html file and deploys this to [https://dataqualityhub.github.io/resources-for-quality-analysis-external/](https://dataqualityhub.github.io/resources-for-quality-analysis-external/).
+
+
