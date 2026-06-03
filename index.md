@@ -1,14 +1,16 @@
 # Quality Questions and Red Flags
 
-This document is published and maintained by the Data Quality Hub and the Analysis Standards and Pipelines Hub, based at ONS. 
+## Introduction
+
+This document is published and maintained by the Data Quality Hub and the Analysis Standards and Pipelines Hub, based in the Methods and Quality Directorate at the [UK Office for National Statistics](https://www.ons.gov.uk/). 
 
 The information below aims to provide support and guidance to colleagues working on statistical outputs and analysis across government. 
 
-The [Quality Questions](#quality-questions) table includes a set of questions that the analyst can use to interrogate their work with their team and will support them in assuring the quality of their work. The document explains why the question is important, and what help, guidance, and support is available. You can also look for specific information, we suggest you read down the first column and when you find a question that is relevant to you, you can read across that row of the table for more information. 
+The [Quality Questions](#quality-questions) table contains a set of questions that an analyst can use to interrogate their work with their team. The questions are there to support teams in assuring the quality of their work. The document explains why the question is important, and what help, guidance, and support is available. You can also look for specific information, we suggest you read down the first column and when you find a question that is relevant to you read across that row of the table for more information. 
 
-The [Quality Red Flags](#quality-red-flags) table includes a set of statements that can help the analyst and their team to identify potential risks to quality that might benefit from further investigation. These statements are not meant to be considered as a value judgment, but more as a suggestion that best practice and support could be beneficial. 
+The [Quality Red Flags](#quality-red-flags) table contains a set of statements that can help you and your team to identify potential risks to quality that might benefit from further investigation. These statements are not meant to be considered as a value judgment, but as a suggestion that best practice and further support could be beneficial. 
 
-We will be developing this page and welcome your feedback on the content and the structure.
+The page is regularly updated. We welcome your feedback on the content and the structure. You can email us or raise an issue on the [Github site](https://github.com/DataQualityHub/resources-for-quality-analysis-external/) for this guidance.
 
 Contact: DQHub@ons.gov.uk 
 
